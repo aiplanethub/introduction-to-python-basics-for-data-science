@@ -1,4 +1,5 @@
 ## What is Python?
+<!-- is it not possible to download the certificate anymore? -->
 
 Python is one of the most popular programming languages in the world. It gained prominence owing to its simplicity and ease of use. Its syntax is very similar to english language.
 
