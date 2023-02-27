@@ -35,7 +35,7 @@ x \* y  # multiplication
 
 
 
-### Aritmetic Operators: Meanings & Examples
+### Arithmetic Operators: Meanings & Examples
 
 
 
