@@ -1,6 +1,6 @@
 Now that we know the importance of Python in Data Science, let's try to understand the tools that we need to use to run Python for Data Science tasks.
 
-One of the popular toolkits that data scientists use to run their Python scripts is an interactive notebook. There are various ways in which you can setup an interactive notebook. In this module, we will learn one them, i.e., how to setup and use Google Colab.
+One of the popular toolkits that data scientists use to run their Python scripts is an interactive notebook. There are various ways in which you can set up an interactive notebook. In this module, we will learn one of them, i.e., how to set up and use Google Colab.
 
 ### What are Interactive Notebooks?
 
@@ -8,10 +8,10 @@ One of the popular toolkits that data scientists use to run their Python scripts
 
 ### Google Colab - Online Environment to Run Python Code
 
-  * Google colab is the simplest way to setup an interactive notebook environment to perform your data science tasks.
+  * Google Colab is the simplest way to set up an interactive notebook environment to perform your data science tasks.
   * The environment offers you up to 12 GB RAM/GPU etc for free and 100 GB storage.
-  * You don’t need to worry about installing a bulky python application on your laptop/computer
-  * **Link to access Google colab:** [https://colab.research.google.com/](https://colab.research.google.com)
+  * You don’t need to worry about installing a bulky Python application on your laptop/computer
+  * **Link to access Google Colab:** [https://colab.research.google.com/](https://colab.research.google.com)
 
 ### Getting Started Video to Run Python Code on Colab
 
